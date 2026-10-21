@@ -37,7 +37,14 @@
     { "path": "unpackaged/post_tso" },
     { "path": "unpackaged/post_utils" },
     { "path": "unpackaged/post_ux" },
-    { "path": "unpackaged/post_inapp" }
+    { "path": "unpackaged/post_inapp" },
+    { "path": "unpackaged/post_collections_case_flow" },
+    { "path": "unpackaged/post_manufacturing" },
+    { "path": "unpackaged/post_manufacturing_core" },
+    { "path": "unpackaged/post_mcp" },
+    { "path": "unpackaged/post_mcp_custom" },
+    { "path": "unpackaged/post_payments_ext" },
+    { "path": "unpackaged/post_prm_pricing" }
   ],
   "name": "rlm-base",
   "namespace": "",
